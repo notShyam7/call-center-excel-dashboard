@@ -7,7 +7,7 @@
 <br>
 
 <p>
-	Excel Dashboard displaying the performance of a call center in the month of October, 2020.
+	Interactive Excel Dashboard displaying the performance of a call center in the month of October, 2020.
 </p>
 
 <p>
