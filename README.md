@@ -2,4 +2,4 @@
 
 <br>
  
-<img src="/dashboard.jpg"/>
+<img src="dashboard.png"/>
