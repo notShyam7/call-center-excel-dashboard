@@ -2,7 +2,7 @@
 
 <br>
  
-<img src="dashboard.png"/>
+<img src="dashboard.jpeg"/>
 
 <br>
 
